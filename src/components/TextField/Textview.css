@@ -1,3 +1,6 @@
+.textfield {
+  width: max-content;
+}
 .primary-style {
   display: flex;
   flex-direction: row;

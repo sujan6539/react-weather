@@ -4,7 +4,7 @@ import './Textview.css';
 
 function Textview() {
   return (
-    <div>
+    <div className="textfield">
       <div className="primary-style">
         <DeleteIcon color="primary"></DeleteIcon>
         <div>Text 2</div>
