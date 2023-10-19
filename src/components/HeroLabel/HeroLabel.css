@@ -1,0 +1,9 @@
+.herolabel{
+    width: max-content;
+}
+.herolabel-footer{
+    font-size: small;
+    flex-direction: row;
+    flex-wrap: wrap;
+    display: flex; 
+}
