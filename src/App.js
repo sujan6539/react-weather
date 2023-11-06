@@ -1,5 +1,5 @@
 import "./App.css";
-import  Summary from "./containers/Summary";
+import  Summary from "../src/containers/Summary/Summary";
 import fetchWeatherData from "./services/api/weatherApi";
 
 function App() {
